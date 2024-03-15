@@ -1,36 +1,5 @@
 # React Portfolio
 
-```css
-my-react-portfolio/
-├─ src/
-│  ├─ components/
-│  │  ├─ Header/
-│  │  │  ├─ index.jsx
-│  │  │  ├─ header.css
-│  │  ├─ Navigation/
-│  │  │  ├─ index.jsx
-│  │  │  ├─ navigation.css
-│  │  ├─ Project/
-│  │  │  ├─ index.jsx
-│  │  │  ├─ project.css
-│  │  ├─ Footer/
-│  │  │  ├─ index.jsx
-│  │  │  ├─ footer.css
-│  ├─ App.jsx
-│  ├─ index.jsx
-│  ├─ main.css
-├─ public/
-│  ├─ index.html
-├─ vite.config.js
-├─ package.json
-```
-
-
-
-
-
-
-
 
 ## Your Task
 
