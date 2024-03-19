@@ -5,7 +5,7 @@
     <a href="https://react.dev/">
         <img alt="The library for web and native user interfaces" src="https://img.shields.io/static/v1.svg?label=React.js&message=JS library&color=blueviolet" /></a>
     <a href="https://www.netlify.com/">
-        <img alt="Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations" src="https://img.shields.io/static/v1.svg?label=Netlify&message=deployment&color=yellowgreen" /></a>
+        <img alt="Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations" src="https://img.shields.io/static/v1.svg?label=Netlify&message=deployment&color=orange" /></a>
     <a href="https://coolors.co/">
         <img alt="Coolors - a color palettes generator" src="https://img.shields.io/static/v1.svg?label=Coolors&message=palettes generator&color=green" /></a>
         <img alt="JavaScript - ES6" src="https://img.shields.io/static/v1.svg?label=JavaScript&message=ES6&color=violet" /></a>
