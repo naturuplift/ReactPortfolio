@@ -71,8 +71,9 @@ I'm always open to contributions and collaboration. If you're interested in cont
 
 For any questions about this project, please contact me via:
 
-Email: arnaldosepulveda@gmail.com
-GitHub: @[naturuplift](https://github.com/naturuplift)
+- Email: arnaldosepulveda@gmail.com
+- GitHub: @[naturuplift](https://github.com/naturuplift)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/arnaldo-sepulveda-7b321022/)
 
 ## License
 
@@ -80,7 +81,5 @@ This project is licensed under the MIT License. See the [LICENSE][MIT] file for 
 
 
 [react-portfolio]: <>
-
-
 [state-flow]: <https://github.com/naturuplift/ReactPortfolio/blob/main/assets/img/React%20Portfolio%20Flowchart%20v1.png>
 [MIT]: <https://github.com/naturuplift/ReactPortfolio/blob/main/LICENSE>
