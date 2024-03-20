@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css';
 import Header from './components/Header/Header';
+import Gallery from './components/Gallery/Gallery';
 
 function App() {
   // [ variable, methodToUpdateVaraiable ]  = useState(initialDataState)
@@ -22,14 +23,12 @@ function App() {
 //    setCount(prev => prev + 1);
 // }
 
-
   return (
     <>
       <div className="app-wrapper">
         <h1>I am in the APP component</h1>
         <Header />
-        <Header />
-        <Header />
+        <Gallery />
       </div>
     </>
   )
